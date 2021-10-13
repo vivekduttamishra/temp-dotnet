@@ -1,0 +1,8 @@
+assignment 2 
+
+here you can do your assignment using
+any tool or ide like vscode
+
+then push the code using
+
+git-update  assignment2 done
